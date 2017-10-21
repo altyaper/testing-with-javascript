@@ -1,0 +1,7 @@
+{
+  "name": "testing-js",
+  "version": "1.0.0",
+  "description": "Testing with JavaScript",
+  "main": "app.js",  
+  "license": "ISC"
+}
